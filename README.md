@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-### 🐍 My GitHub Contribution Snake
+### 开局一条小小蛇
 
 <picture>
   <source
