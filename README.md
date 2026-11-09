@@ -1,8 +1,6 @@
 
 ## 你好！
 
-### 开局一条小小蛇
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
